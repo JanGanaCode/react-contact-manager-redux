@@ -6,6 +6,7 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
     "classnames": "^2.2.6",
+    "gh-pages": "^2.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-redux": "^5.1.1",
@@ -19,7 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "main": "index.js",
@@ -33,5 +35,5 @@
   "bugs": {
     "url": "https://github.com/JanGanaCode/react-contact-manager-redux/issues"
   },
-  "homepage": "https://github.com/JanGanaCode/react-contact-manager-redux#readme"
+  "homepage": "https://janganacode.github.io/react-contact-manager-redux"
 }
