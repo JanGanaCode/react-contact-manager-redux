@@ -5,7 +5,6 @@
 * Component Lifecycle
 * Async/Await
 * React Router
-* Context API
 * JSONPlaceholder
 * GitHub Pages
 * UI: Bootstrap 4
