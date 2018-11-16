@@ -6,7 +6,6 @@
 * Async/Await
 * React Router
 * JSONPlaceholder
-* GitHub Pages
 * UI: Bootstrap 4
 
 [Non-Redux version of this app](https://github.com/JanGanaCode/react-contact-manager "React | Contact Manager App")
