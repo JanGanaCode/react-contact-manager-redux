@@ -2,6 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://janganacode.github.io/react-contact-manager-redux",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
@@ -34,6 +35,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JanGanaCode/react-contact-manager-redux/issues"
-  },
-  "homepage": "https://janganacode.github.io/react-contact-manager-redux"
+  }
 }
